@@ -1,0 +1,15 @@
+1  ok 	     Quantidade total de itens em estoque (somatória das quantidades de todos os produtos)
+2  ok 	     Quantidade total de itens em destaque (somatória das quantidades dos itens marcados como "emDestaque : sim")
+3  fita dada Quantidade total de itens disponíveis (similar ao anterior)
+4  ok        Valor total do inventário da empresa (somatória dos valores individuais multiplicado pela quantidade em estoque)
+5  ok	     Somatória de itens por departamento (você deverá retornar um objeto contendo o nome do departamento e o total de itens nele)
+6  fita dada Valor total do inventário por departamento (similar ao item anterior)
+7  fita dada Valor do ticket médio dos produtos da empresa (basicamente o valor total do inventário dividido pelo número de itens)
+8  fita dada Ticket médio por departamento (similar ao item anterior, porém retornando uma lista de objetos que contenha o nome do departamento e o seu ticket médio)
+9  ok        Departamento mais valioso (qual o departamento que tem a maior somatória dos valores dos itens)
+10 fita dada Produto mais caro da loja (bem como seu departamento)
+11 fita dada Produto mais barato da loja (bem como seu departamento)
+
+
+		ENTRADA 	--> PROCESSAMENTO --> SAÍDA
+		listaProdutos	    Ex 1 		
